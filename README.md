@@ -42,3 +42,9 @@
 
 ***Users can enter personal information and receive fitness recommendations.***
 
+
+
+***Conclusion:***
+
+***The Fitness Management System demonstrates basic SCM practices using Git and GitHub.***
+
