@@ -19,8 +19,16 @@ public:
         cout << "Age: " << age << endl;
     }
 };
-
 int main() {
+cout << "=================================" << endl;
+cout << " FITNESS MANAGEMENT SYSTEM " << endl;
+cout << "=================================" << endl;
+cout << "1. Add Member" << endl;
+cout << "2. Calculate BMI" << endl;
+cout << "3. Workout Plan" << endl;
+cout << "4. Diet Plan" << endl;
+cout << "=================================" << endl;
+
     Member m;
     m.addMember();
     m.displayMember();
