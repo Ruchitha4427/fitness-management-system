@@ -50,6 +50,7 @@ else
 {
     cout << "Workout Plan: Weight Loss Program" << endl;
 }
+//Diet recommendation based on BMI
 cout << "\nDiet Recommendation:\n";
 
 if (bmi < 18.5)
