@@ -36,3 +36,9 @@
 
 ***4. Run executable***
 
+
+
+***Usage:***
+
+***Users can enter personal information and receive fitness recommendations.***
+
