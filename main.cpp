@@ -59,7 +59,7 @@ if (bmi < 18.5)
 }
 else if (bmi < 25)
 {
-    cout << "Balanced Diet" << endl;
+    cout << "Balanced Diet with fruits and vegetables" << endl;
 }
 else
 {
