@@ -1,4 +1,3 @@
-
 ***# Fitness Management System***
 
 
@@ -17,4 +16,9 @@
 
 ***- Workout Plan Recommendation***
 
+
+
+***Project Objective:***
+
+***This project helps users manage fitness information, BMI, workout plans, and diet recommendations.***
 
