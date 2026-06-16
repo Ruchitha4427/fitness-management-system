@@ -6,6 +6,12 @@
 
 
 
+***Project Objective:***
+
+***This project helps users manage fitness information, BMI, workout plans, and diet recommendations.***
+
+
+
 ***Features:***
 
 ***- Add Member***
@@ -14,13 +20,9 @@
 
 ***- BMI Calculator***
 
-***- Workout Plan Recommendation***
+***- Workout Recommendation***
 
-
-
-***Project Objective:***
-
-***This project helps users manage fitness information, BMI, workout plans, and diet recommendations.***
+***- Diet Recommendation***
 
 
 
