@@ -27,3 +27,14 @@ int main() {
 
     return 0;
 }
+float weight, height;
+
+cout << "Enter Weight (kg): ";
+cin >> weight;
+
+cout << "Enter Height (m): ";
+cin >> height;
+
+float bmi = weight / (height * height);
+
+cout << "BMI = " << bmi << endl;
