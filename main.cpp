@@ -54,7 +54,7 @@ cout << "\nDiet Recommendation:\n";
 
 if (bmi < 18.5)
 {
-    cout << "High Protein Diet" << endl;
+    cout << "High Protein Diet with milk,eggs and nuts" << endl;
 }
 else if (bmi < 25)
 {
