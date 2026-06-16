@@ -20,6 +20,7 @@ public:
     }
 };
 int main() {
+//Main menu section
 cout << "=================================" << endl;
 cout << " FITNESS MANAGEMENT SYSTEM " << endl;
 cout << "=================================" << endl;
