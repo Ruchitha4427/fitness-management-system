@@ -1,4 +1,4 @@
-***# Fitness Management System***
+****# Fitness Management System***
 
 
 
@@ -47,4 +47,4 @@
 ***Conclusion:***
 
 ***The Fitness Management System demonstrates basic SCM practices using Git and GitHub.***
-
+***Documentation reviewed by Bindu b n.***
