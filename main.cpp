@@ -22,7 +22,7 @@ public:
 int main() {
 //Main menu section
 cout << "=================================" << endl;
-cout << " FITNESS MANAGEMENT SYSTEM " << endl;
+cout << " FITNESS MANAGEMENT SYSTEM  v1.o" << endl;
 cout << "=================================" << endl;
 cout << "1. Add Member" << endl;
 cout << "2. Calculate BMI" << endl;
