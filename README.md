@@ -1,9 +1,14 @@
-
 ***# Fitness Management System***
 
 
 
 ***A simple Fitness Management System developed in C++.***
+
+
+
+***Project Objective:***
+
+***This project helps users manage fitness information, BMI, workout plans, and diet recommendations.***
 
 
 
@@ -15,6 +20,31 @@
 
 ***- BMI Calculator***
 
-***- Workout Plan Recommendation***
+***- Workout Recommendation***
 
+***- Diet Recommendation***
+
+
+
+***Installation:***
+
+***1. Clone repository***
+
+***2. Open project***
+
+***3. Compile main.cpp***
+
+***4. Run executable***
+
+
+
+***Usage:***
+
+***Users can enter personal information and receive fitness recommendations.***
+
+
+
+***Conclusion:***
+
+***The Fitness Management System demonstrates basic SCM practices using Git and GitHub.***
 
