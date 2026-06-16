@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Member {
@@ -19,14 +20,22 @@ public:
         cout << "Age: " << age << endl;
     }
 };
+int main() 
+{
+//Main menu section
+cout << "Welcome to the Fitness Management System" << endl;
+cout << "=================================" << endl;
+cout << " FITNESS MANAGEMENT SYSTEM  v1.o" << endl;
+cout << "=================================" << endl;
+cout << "1. Add Member" << endl;
+cout << "2. Calculate BMI" << endl;
+cout << "3. Workout Plan" << endl;
+cout << "4. Diet Plan" << endl;
+cout << "=================================" << endl;
 
-int main() {
     Member m;
     m.addMember();
     m.displayMember();
-
-    return 0;
-}
 float weight, height;
 
 cout << "Enter Weight (kg): ";
@@ -64,4 +73,6 @@ else if (bmi < 25)
 else
 {
     cout << "Low Calorie Diet" << endl;
+}
+    return 0;
 }
