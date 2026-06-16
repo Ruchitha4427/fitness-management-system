@@ -38,3 +38,15 @@ cin >> height;
 float bmi = weight / (height * height);
 
 cout << "BMI = " << bmi << endl;
+if (bmi < 18.5)
+{
+    cout << "Workout Plan: Weight Gain Program" << endl;
+}
+else if (bmi < 25)
+{
+    cout << "Workout Plan: Maintain Fitness Program" << endl;
+}
+else
+{
+    cout << "Workout Plan: Weight Loss Program" << endl;
+}
