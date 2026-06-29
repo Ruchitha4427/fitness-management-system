@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="workout.html">Workout Plans</a>
+<a href="diet.html">Diet Plans</a>
+<a href="bmi.html">BMI Calculator</a>
+<a href="register.html">Register</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<h1>Contact Us</h1>
+
+<div class="form-box">
+
+<form onsubmit="return contactMessage()">
+
+<label>Name</label><br>
+
+<input type="text" id="cname"><br><br>
+
+<label>Email</label><br>
+
+<input type="email" id="cemail"><br><br>
+
+<label>Message</label><br>
+
+<textarea id="msg" rows="5" cols="40"></textarea>
+
+<br><br>
+
+<input type="submit" value="Send Message">
+
+</form>
+
+<h2 id="contactResult"></h2>
+
+<p id="contactNote"></p>
+
+</div>
+
+<script src="script.jss"></script>
+<footer>
+
+<p>© 2026 Fitness Management System | Developed by Ruchitha M.P.</p>
+
+</footer>
+
+</body>
+
+</html>
