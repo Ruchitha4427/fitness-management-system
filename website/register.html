@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Register</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="workout.html">Workout Plans</a>
+<a href="diet.html">Diet Plans</a>
+<a href="bmi.html">BMI Calculator</a>
+<a href="register.html">Register</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<h1>Fitness Registration Form</h1>
+
+<div class="form-box">
+
+<form onsubmit="return validateForm()">
+
+<label>Full Name</label><br>
+<input type="text" id="name"><br><br>
+
+<label>Email</label><br>
+<input type="email" id="email"><br><br>
+
+<label>Phone Number</label><br>
+<input type="text" id="phone"><br><br>
+
+<label>Age</label><br>
+<input type="number" id="age"><br><br>
+
+<label>Gender</label><br>
+
+<input type="radio" name="gender"> Male
+<input type="radio" name="gender"> Female
+<br><br>
+
+<label>Select Fitness Plan</label><br>
+
+<select id="plan">
+<option>Basic</option>
+<option>Standard</option>
+<option>Premium</option>
+</select>
+
+<br><br>
+
+<input type="submit" value="Register">
+
+</form>
+
+<h2 id="message"></h2>
+
+<p id="thankyou"></p>
+
+</div>
+
+<script src="script.jss"></script>
+<footer>
+
+<p>© 2026 Fitness Management System | Developed by Ruchitha M.P.</p>
+
+</footer>
+
+</body>
+</html>
